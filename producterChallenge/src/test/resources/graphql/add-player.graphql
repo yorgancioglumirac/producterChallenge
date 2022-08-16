@@ -1,0 +1,7 @@
+mutation{addPlayer(player:{name:"Producter",surname:"Urla/İZMİR", position:PowerForward}){ 
+  id
+  name
+  surname
+  position
+	}
+}
