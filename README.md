@@ -3,6 +3,8 @@ Graphql + Spring project for Producter
 
 -> You should change application.properties file according to your config
 
+-> You should use JDK 18 for run code.
+
 -> Example for Mutation and Query:
 
       mutation{deletePlayer
